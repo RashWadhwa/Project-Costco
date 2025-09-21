@@ -4,8 +4,8 @@
 This Power BI dashboard transforms messy, unstructured sales data from multiple sources into a clear, insightful, and interactive report to help stakeholders make data-driven decisions.
 
 ## Screenshot for dashboard and data model.
-1[](
-
+1[](https://github.com/RashWadhwa/Project-Costco/blob/main/Data%20Modeling%20Diagram.png)
+![](
 ## Key Features
 - **Data Cleaning & Transformation:** Organised and structured unclean sales data for accurate analysis.
 - **Performance Optimisation:** Implemented a **separate calendar table** for improved time-based analysis.
